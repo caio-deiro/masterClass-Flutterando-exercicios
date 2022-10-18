@@ -2,7 +2,8 @@
 exemplificando de forma prática a implementação da regra de 3, e da sequencia de fibonacci
 
 ## Exercício 1 - fibonacci
-![image](https://user-images.githubusercontent.com/76565329/196308763-e389bc2c-3479-4199-96b9-d85393dc365a.png)
+![image](https://user-images.githubusercontent.com/76565329/196310233-ec8a26b6-77b4-4f91-9930-a28cb7775545.png)
+
 
 ### codigo do exemplo acima: 
 ![image](https://user-images.githubusercontent.com/76565329/196308959-eed71b91-b215-4c3e-8962-a17bedd053a0.png)
