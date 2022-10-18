@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   print(
-      'escolha a quantidade de numeros da sequencia de fibonacci que serao impressos:\n');
+      'escolha a quantidade de numeros da sequencia de fibonacci que serao impressos:');
   var numero = int.parse(stdin.readLineSync()!);
   for (var i = 0; i < numero; i++) {
     print(finaboncci(i));
