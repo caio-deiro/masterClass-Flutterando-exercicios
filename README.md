@@ -1,5 +1,5 @@
 # MasterClass Flutterando desafio 1 e 2
-exemplificando de forma prática a implementação da regra de 3, e da sequencia de fibonacci
+exemplificando de forma prática a implementação da regra de 3, da sequencia de fibonacci, validação de cartão de crédito e CPF
 
 ## Exercício 1 - fibonacci
 ![image](https://user-images.githubusercontent.com/76565329/196310233-ec8a26b6-77b4-4f91-9930-a28cb7775545.png)
